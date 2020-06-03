@@ -1,8 +1,15 @@
 # [BLM-resources](https://www.blm-resources.com/index.html)
 
+`BLM-resources` was built since we were seeing a wealth of information and tips on Twitter in regards to the Black Lives Matter protests. While those are great and amazing, there's a couple problems at hand:
+
+1. It's hard to categorize, search, or filter those brilliant bits of information. Unless you have some sort of system already in place, it's fairly easy to lose track of information.
+2. There's _a lot_ of disinformation and misinformation going on. That's not always the easiest to figure out right away so we're hoping links and resources here become somewhat of a source of information.
+
+---
+
 ### Dev notes
 
-This UI is built with vanilla html/css/js since we're looking to optimize performance. We imagined that the audience would mostly view this on mobile devices with varying amount of processing & data.
+This user interface is built with vanilla html/css/js since we're looking to optimize performance. We imagined that the audience would mostly view this on mobile devices with varying amount of processing & data.
 
 ---
 
