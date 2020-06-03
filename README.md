@@ -7,6 +7,14 @@
 
 ---
 
+### Please Contributing
+
+Reply to any tweet with [@blmresourcesbot](https://twitter.com/blmresourcesbot) and the bot will automatically respond with a link to [blm-resources.com](https://www.blm-resources.com/). 
+
+This repo contains the content in [blm-resources.com](https://www.blm-resources.com/).
+
+---
+
 ### How this works
 
 Reply to any tweet with [@blmresourcesbot](https://twitter.com/blmresourcesbot) and the bot will automatically respond with a link to [blm-resources.com](https://www.blm-resources.com/). 
